@@ -1,5 +1,6 @@
 ### Hi there 👋 My name is Susanna!
 
+I am a second year computer science student at UBC!
 <!--
 **suwsa9/suwsa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
