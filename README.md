@@ -7,7 +7,7 @@ Feel free to explore and reach out for collaboration or inquiries.
 I'm a second year Computer Science student at the University of British Columbia. My pronouns are she/they and I love cats! I'm passionate about building innovative solutions and expanding my knowledge in software development. With a good foundation in programming and a knack for problem-solving, I aim to contribute to meaningful projects that make a difference!!
 
 ### Contact Me
-Feel free to reach out to me via [email](mailto:swang134@student.ubc.ca) for collaborations or inquiries. Connect with me on [LinkedIn](https://www.linkedin.com/in/susanna-wang-0aa541218/) for professional networking!!
+Feel free to reach out to me via [email](mailto:swang134@student.ubc.ca) for collaborations or inquiries. Connect with me on [LinkedIn](https://www.linkedin.com/in/susannaw9/) for professional networking!!
 
 Thank you for visiting! ≽^•⩊•^≼
 
