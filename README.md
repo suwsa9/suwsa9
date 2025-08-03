@@ -1,4 +1,4 @@
-# Susanna Wang's Repository ᡣ𐭩
+# Susanna Wang's Repository
 Hiiii! Welcome to my GitHub repository! Here you'll find a showcase of my projects, skills, and experiences. 
 Feel free to explore and reach out for collaboration or inquiries.
 
