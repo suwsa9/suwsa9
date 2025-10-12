@@ -7,7 +7,7 @@ Feel free to explore and reach out for collaboration or inquiries.
 I'm a third year Computer Science student at the University of British Columbia. My pronouns are she/they and I love cats! I'm passionate about building innovative solutions and expanding my knowledge in software development.
 
 ### Contact Me
-Feel free to reach out to me via [email](mailto:swang134@student.ubc.ca) for collabs/inquiries. Connect with me on [LinkedIn](https://www.linkedin.com/in/susannaw9/) for professional networking!!
+Feel free to reach out to me via [email](mailto:swang134@student.ubc.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/susannaw9/) !!
 
 Thank you for visiting! ≽^•⩊•^≼
 
