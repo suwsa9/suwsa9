@@ -1,15 +1,12 @@
-# Susanna Wang's Repository
-Hiiii! Welcome to my GitHub repository! Here you'll find a showcase of my projects, skills, and experiences. 
-Feel free to explore and reach out for collaboration or inquiries.
+### susanna wang
+hello & welcome to my github repo
+### about me
+my name is susanna and i'm a 4th year student @ the univeristy of british columbia
 
-### About Me
+### contact me
+Feel free to reach out to me via [email](mailto:susannaxwg@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/susannaw9/) !!
 
-I'm a third year Computer Science student at the University of British Columbia. My pronouns are she/they and I love cats! I'm passionate about building innovative solutions and expanding my knowledge in software development.
-
-### Contact Me
-Feel free to reach out to me via [email](mailto:swang134@student.ubc.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/susannaw9/) !!
-
-Thank you for visiting! ≽^•⩊•^≼
+thx for visiting! ≽^•⩊•^≼
 
 <!--
 **suwsa9/suwsa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
