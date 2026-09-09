@@ -4,7 +4,7 @@ hello & welcome to my github repo
 my name is susanna and i'm a 4th year student @ the univeristy of british columbia
 
 ### contact me
-Feel free to reach out to me via [email](mailto:susannaxwg@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/susannaw9/) !!
+feel free to reach out to me via [email](mailto:susannaxwg@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/susannaw9/) !!
 
 thx for visiting! ≽^•⩊•^≼
 
